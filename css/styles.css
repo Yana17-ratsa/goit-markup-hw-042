@@ -349,7 +349,7 @@ address {
 .team-item-div-list-link-link:hover {
     background-color: #404BBF;
 }
-..team-item-div-list-link-link:focus {
+.team-item-div-list-link-link:focus {
     background-color: #404bbf;
 }
 
