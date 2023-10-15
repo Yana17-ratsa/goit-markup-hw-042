@@ -503,10 +503,6 @@ align-items: baseline;
 }
 
 .footer-second-box {
-    padding-left: 120px;
-    width: 208px;
-        height: 80px;
-        flex-shrink: 0;
 }
 
 .footer-second-box-text {
